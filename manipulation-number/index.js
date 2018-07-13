@@ -23,4 +23,3 @@ button.onclick = getNumbers
 
 button.addEventListener("click", getNumbers)
 button.addEventListener("contextmenu", getNumbers)
-button.addEventListener("mouseover", getNumbers)
